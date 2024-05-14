@@ -9,10 +9,14 @@
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
 
-# Tereza Oliveira
+# Guilherme Carieli França
 
 Atividade 1: Trello 
-- [Grupo](link)
+- [Guilherme Carieli, Breno Araújo, Luan Hiroshy, Shayanne Almeida]([link](https://trello.com/b/4GwFxWwX/gerenciamento-de-entregas)
+Atividade 2: Projeto pessoal
+- [Guilherme Carieli](https://trello.com/b/tiU6L9NX/projeto-pessoal-casa-propria)
+Atividade 3: Linguagem de programação C++
+- [Guilherme Carieli, Breno Araújo, Shayanne Almeida, Marvyn Santana, Alice Ayune](https://www.canva.com/design/DAGEjWwOWGA/Me6Xn4CuGQC1s3_PGDGzMw/edit?utm_content=DAGEjWwOWGA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
