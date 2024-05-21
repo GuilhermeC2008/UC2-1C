@@ -12,11 +12,22 @@
 # Guilherme Carieli França
 
 Atividade 1: Trello 
-- [Guilherme Carieli, Breno Araújo, Luan Hiroshy, Shayanne Almeida]([link](https://trello.com/b/4GwFxWwX/gerenciamento-de-entregas)
+
+- [Guilherme Carieli, Breno Araújo, Luan Hiroshy, Shayanne Almeida](https://trello.com/b/4GwFxWwX/gerenciamento-de-entregas)
+
 Atividade 2: Projeto pessoal
+
 - [Guilherme Carieli](https://trello.com/b/tiU6L9NX/projeto-pessoal-casa-propria)
+
 Atividade 3: Linguagem de programação C++
+
 - [Guilherme Carieli, Breno Araújo, Shayanne Almeida, Marvyn Santana, Alice Ayune](https://www.canva.com/design/DAGEjWwOWGA/Me6Xn4CuGQC1s3_PGDGzMw/edit?utm_content=DAGEjWwOWGA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Atividade 4: Emprego dos sonhos
+
+- [Guilherme Carieli](https://docs.google.com/document/d/1DVyfcjwFoM45Ht7ahIHhWRqRHNGnh1NlzOuPIGhzXBY/edit?usp=sharing)
+
+
 
 
 
