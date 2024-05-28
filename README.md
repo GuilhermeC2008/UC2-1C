@@ -27,6 +27,10 @@ Atividade 4: Emprego dos sonhos
 
 - [Guilherme Carieli](https://docs.google.com/document/d/1DVyfcjwFoM45Ht7ahIHhWRqRHNGnh1NlzOuPIGhzXBY/edit?usp=sharing)
 
+Atividade 5: Gráfico de Gantt
+
+- [Guilherme Carieli, Arthur Edson](https://docs.google.com/spreadsheets/d/1eF6GGqn86gFGvM90fFvcrCrwRT_076nbx3V6U5znLvA/edit#gid=1115838130)
+
 
 
 
